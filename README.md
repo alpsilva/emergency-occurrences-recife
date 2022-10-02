@@ -4,4 +4,7 @@ This is a analytical sudy made with the public records for emergency occurrences
 First presentation:
 https://youtu.be/U6un3vF8oNM
 
+Second presentation:
+https://youtu.be/hOlWIiftsH4
+
 This dataset can be found at http://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2022
